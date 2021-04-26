@@ -4,32 +4,61 @@ Data used is from sklearn's built-in dataset containing information about breast
 Features in the set:
 
 radius (mean)
+
 texture (mean)
+
 perimeter (mean)
+
 area (mean)
+
 smoothness (mean)
+
 compactness (mean)
+
 concavity (mean)
+
 concave points (mean)
+
 symmetry (mean)
+
 fractal dimension (mean)
+
 radius (standard error)
+
 texture (standard error)
+
 perimeter (standard error)
+
 area (standard error)
+
 smoothness (standard error)
+
 compactness (standard error)
+
 concavity (standard error)
+
 concave points (standard error)
+
 symmetry (standard error)
+
 fractal dimension (standard error)
+
 radius (worst)
+
 texture (worst)
+
 perimeter (worst)
+
 area (worst)
+
 smoothness (worst)
+
 compactness (worst)
+
 concavity (worst)
+
 concave points (worst)
+
 symmetry (worst)
+
 fractal dimension (worst)
